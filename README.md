@@ -11,3 +11,6 @@ Designed to run on a standard Uno, and a 128 x 128 pixel LCD attached. Simple mo
 - Clear text and graphics memory
 - Display some static images
 - Play an animation consisting of 5 frames
+
+## Demonstration
+YouTube: https://youtu.be/WEBfK8QX6zg
